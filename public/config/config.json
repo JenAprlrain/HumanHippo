@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "",
-  "SCAN_LINK": "https://ftmscan.com/address/0x3b060b93459553b52639ef26eb4024d8491f5608",
+  "CONTRACT_ADDRESS": "0x5DC20feaCc2deE0F99C861967B395e314E208f30",
+  "SCAN_LINK": "https://ftmscan.com/address/0x5dc20feacc2dee0f99c861967b395e314e208f30",
   "NETWORK": {
     "NAME": "Fantom",
     "SYMBOL": "FTM",
     "ID": 250
   },
   "NFT_NAME": "Human Hippo",
-  "SYMBOL": "Hippo",
+  "SYMBOL": "HIPPO",
   "MAX_SUPPLY": 777,
   "WEI_COST": 35000000000000000000,
-  "DISPLAY_COST": 35,
+  "DISPLAY_COST":   35,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "NFTKey",
   "MARKETPLACE_LINK": "https://nftkey.app",
